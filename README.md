@@ -1,2 +1,2 @@
 # Classcial-VRP
-Finding the optimal solution and visualize the result
+Finding the optimal solution to solve delivery problem and visualize the result
